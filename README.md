@@ -1,5 +1,3 @@
-# FPS Game Planning Example
-
 ## 1. 게임 개요
 
 | 항목 | 내용 |
