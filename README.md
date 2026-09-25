@@ -4,7 +4,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 게임 제목 | **** |
+| 게임 제목 | **2100** |
 | 장르 | Roguelike |
 | 개발 엔진 | Unreal Engine 5.4.4 |
 | 플랫폼 | PC |
@@ -48,7 +48,7 @@
 
 게임의 핵심 플레이 흐름은 다음과 같다.
 
-![alt text](../image.png)
+<img width="543" height="762" alt="image" src="https://github.com/user-attachments/assets/0d7967aa-85a6-4060-9d6b-4bad40b67fbb" />
 
 ```text
 사무실(허브) 진입 및 무기/스킬 강화 세팅
